@@ -64,7 +64,7 @@ body{
     transition-duration: 1s;
 }
 
-.btn-hover {
+.btn:hover {
     transform: rotateY(180deg);
 }
 
